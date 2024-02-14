@@ -51,7 +51,8 @@ body {
         letter-spacing: 0.04em;
         color: #ffffff;
         cursor: pointer;
-        }
+       
+ }
 
     .button-main:hover,
     .button-main:focus {
@@ -72,6 +73,6 @@ body {
     color: #4d5ae5;
 }
 
-.logo .studio {
+.studio {
     color: #2e2f42;
 }
