@@ -73,6 +73,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  cursor: pointer;
 }
 
 .button-main:is(:hover, :focus) {
